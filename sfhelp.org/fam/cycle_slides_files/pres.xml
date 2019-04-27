@@ -1,0 +1,30 @@
+<xml xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:p="urn:schemas-microsoft-com:office:powerpoint"
+ xmlns:oa="urn:schemas-microsoft-com:office:activation">
+ <p:presentation sizeof="screen" gridspacingx="49152" gridspacingy="49152"
+  subsetembed="1">
+  <p:master id="15" slidesn="1CC38E5,49FE4A90" type="main" href="master15.htm"
+   xmlhref="master15.xml" template="Office Theme" layout="title_body"
+   slots="title,body,dateTime,footer,slideNumber">
+   <p:schemes>
+   </p:schemes>
+  </p:master>
+  <p:master id="1" slidesn="1CC38C2,6C22C290" type="notes" href="master01.htm"
+   layout="notes" slots="header,dateTime,slideImage,body,footer,slideNumber"/>
+  <p:slide id="1" slidesn="1CC38E5,49FE4A90" href="slide0001.htm"/>
+  <p:slide id="2" slidesn="1CC38E5,49FE4A90" href="slide0002.htm"/>
+  <p:slide id="10" slidesn="1CC38E5,49FE4A90" href="slide0010.htm"/>
+  <p:slide id="22" slidesn="1CC38E5,49FE71A0" href="slide0022.htm"/>
+  <p:slide id="23" slidesn="1CC38E5,49FE71A0" href="slide0023.htm"/>
+  <p:slide id="15" slidesn="1CC38E5,49FE71A0" href="slide0015.htm"/>
+  <p:slide id="24" slidesn="1CC38E5,49FE71A0" href="slide0024.htm"/>
+  <p:viewstate type="slideView" scale="100" nosnaptogrid="t" restoredleft="162"
+   restoredtop="966" manualadjustleft="t" manualadjusttop="t"
+   hideoutlineicons="t"/>
+  <p:pptdocumentsettings framecolors="WhiteTextOnBlack" hideslideanimation="t"
+   browsersupport="v4"/>
+ </p:presentation>
+ <o:shapedefaults v:ext="edit" spidmax="10248">
+  <o:colormru v:ext="edit" colors="#9fc,#defcde,#ff9,#ffc,#f0e7ba,#e1d5a7,#33c"/>
+ </o:shapedefaults></xml>
